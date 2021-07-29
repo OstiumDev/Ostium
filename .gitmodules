@@ -1,0 +1,6 @@
+[submodule "Launcher"]
+	path = Launcher
+	url = https://github.com/OstiumDev/Launcher
+[submodule "DLL"]
+	path = DLL
+	url = https://github.com/OstiumDev/DLL
