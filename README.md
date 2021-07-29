@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=250px src="https://github.com/AquaPlaysYT/Ostium/blob/main/logo.png" alt="SGO Logo"></a>
+ <img width=500px height=250px src="https://github.com/OstiumDev/Ostium/blob/master/images/logo_large.png" alt="Ostium Logo"></a>
 </p>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-<p align="center"> OST is a modding framework for Splitgate that allows offline play, online private matches and texture modding.
+<p align="center"> OST is a modding framework for Splitgate that allows offline play, online private matches and asset modding.
     <br> 
 </p>
 
@@ -25,11 +25,13 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Ostium is a offline version of Splitgate that allows users to play an offline version of Splitgate while the servers are offline or you're stuck in queue! This allows you to play against bots, you can modify match settings etc as well. Although you're able to play Splitgate you won't be gaining any XP or levels from this as you're not logging into the Splitgate servers. We also include a way of doing online private matches against your friends when the servers are down, our launcher and framework far exceed that of any others as we wish to provide you with the best modded experience possible!
+Ostium is a private Splitgate server, this allows our users to play against bots or against their friends while the servers are down or right after an update! Using Ostium you don't gain any levels or progress on the Splitgate servers as we're using our server software which is completely detached from the Splitgate servers.
+
+Doing this it allows us to implement other features such as a modding framework and cosmetic support, we also wish to support custom asset streaming which would allow users to create their own weapon and character skins and view/use them with Ostium.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get the software working on your computer, if you have any problems please do not hesitate to join [our discord](https://discord.gg/R9UHJ4M9QW) and ask for help!
+These instructions will get Ostium working on your computer, if you have any problems please do not hesitate to join [our discord](https://discord.gg/R9UHJ4M9QW) and ask for help!
 
 ### Prerequisites
 
@@ -57,8 +59,9 @@ TODO: Example of installed launcher and how it works
 - [@AquaPlaysYT](https://github.com/AquaPlaysYT) - Initial Ideas and Developer
 - [@PsychoPast](https://github.com/PsychoPast) - Developer
 - [@ItsSyfe](https://github.com/ItsSyfe) - Developer
+- [@Androidy](https://github.com/SiLeNSwOrD) - Developer
 
-See also the list of [contributors](https://github.com/AquaPlaysYT/Ostium/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/OstiumDev/Ostium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
