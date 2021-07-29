@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=250px src="https://github.com/OstiumDev/Ostium/blob/master/images/logo_large.png" alt="Ostium Logo"></a>
+ <img width=500px height=250px src="./images/logo_small.png" alt="Ostium Logo"></a>
 </p>
 
 <div align="center">
